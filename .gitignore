@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.__pychache__
+*.pkl
+*.png
+*~
+*.egg-info
+*.pyc
+*.hdf5
+*.mp4
