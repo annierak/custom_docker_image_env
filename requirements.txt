@@ -23,7 +23,7 @@ mistune==0.8.4
 nbconvert==5.5.0
 nbformat==4.4.0
 notebook==5.7.8
-numpy==1.16.4
+numpy==1.22.0
 -e git+https://github.com/annierak/odor_tracking_sim@4600a7be942666c3a5a0f366dab6d14838f332a0#egg=odor_tracking_sim
 pandas==0.24.2
 pandocfilters==1.4.2
